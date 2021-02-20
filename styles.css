@@ -461,7 +461,7 @@ footer p {
   visibility: visible;
   z-index: 100;
 }
-.left,.right{
+.left{
   left: 15%;
  
 }
@@ -469,7 +469,7 @@ footer p {
   right: 15%;
 }
 .left,.right{
-  top:18%;
+  top:54%;
   font-size: 48px;
  
 }
@@ -559,7 +559,7 @@ h3{
   .left,.right{
     color:rgba(21, 5, 58, 0.95);
     z-index: 3;
-    top: 43%;
+    top: 47%;
   }
   
   .left{
