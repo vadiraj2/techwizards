@@ -230,7 +230,7 @@ nav {
 
 .left,.right{
   position: absolute;
-  top: 60%;
+  top: 52%;
   font-size:108px;
   transition: all 0.3s linear ;
   color: white;
@@ -461,15 +461,12 @@ footer p {
   visibility: visible;
   z-index: 100;
 }
-.left{
-  left: 15%;
+.left,.right{
+  left: 18%;
   font-size: 48px;
  
 }
-.right{
-  right: 15%;
-  font-size: 48px;
-}
+
 
 .container2{
   height: 40vh;
