@@ -230,7 +230,7 @@ nav {
 
 .left,.right{
   position: absolute;
-  top: 52%;
+  top: 54%;
   font-size:108px;
   transition: all 0.3s linear ;
   color: white;
@@ -462,7 +462,14 @@ footer p {
   z-index: 100;
 }
 .left,.right{
-  left: 18%;
+  left: 15%;
+ 
+}
+.right{
+  right: 15%;
+}
+.left,.right{
+  top:18%;
   font-size: 48px;
  
 }
