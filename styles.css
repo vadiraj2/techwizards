@@ -206,6 +206,7 @@ nav {
   overflow: hidden;
   z-index: 2;
   background-color: white;
+  padding-bottom: 20px;
   
  
 }
@@ -229,7 +230,7 @@ nav {
 
 .left,.right{
   position: absolute;
-  top: 50%;
+  top: 60%;
   font-size:108px;
   transition: all 0.3s linear ;
   color: white;
@@ -419,6 +420,7 @@ display: grid;
 place-items: center;
 }
 #services {
+  height: 95vh;
   background: rgb(7,247,107);
   background: linear-gradient(90deg, rgba(7,247,107,1) -50%, rgba(0,17,95,1) 0%, rgba(25,27,165,1) 51%, rgba(6,0,66,1) 100%, rgba(209,125,190,1) 200%);
   display: grid;
@@ -530,9 +532,10 @@ h3{
    }
    .grid-container{
      width: 93vw;
-     margin: auto 16px;
+     margin: auto ;
      border: 2px solid gold;
      overflow: scroll;
+     padding-bottom: 10px;
    }
    .img-container{
     height: 30%;
